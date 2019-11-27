@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "escpos-luna": "github:uripsubekti13/escpos-luna",
-    "node-bluetooth": "github:copas12/luna-electron-node-bluetooth"
+    "luna-node-bluetooth": "github:copas12/luna-electron-node-bluetooth"
   }
 }
