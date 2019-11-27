@@ -1,4 +1,4 @@
-const bluetooth = require("node-bluetooth");
+const bluetooth = require("luna-node-bluetooth");
 const path = require("path");
 const os = require("os");
 const { Luna } = require("escpos-luna");
